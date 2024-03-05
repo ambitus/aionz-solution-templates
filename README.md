@@ -1,0 +1,1 @@
+# aionz-solution-templatest
