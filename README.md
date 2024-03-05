@@ -1,1 +1,1 @@
-# aionz-solution-templatest
+# aionz-solution-templates
