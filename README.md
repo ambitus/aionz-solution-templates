@@ -41,12 +41,12 @@ Explore each of the available AI Solution Templates below.
   </div>
   <div class="grid-item">
     <h3><a href="https://github.com/ambitus/aionz-st-health-insurance-claims">Health Insurance Claims (MLz)</a></h3>
-    <a href="https://github.com/ambitus/aionz-st-health-insurance-claims"><img src="./imgs/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg"></img></a>
+    <a href="https://github.com/ambitus/aionz-st-health-insurance-claims"><img src="./imgs/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Z environment, while making use of open source frameworks, Machine Learning for IBM z/OS (MLz), and more.</p>
   </div>  
   <div class="grid-item">
     <h3><a href="https://github.com/ambitus/aionz-st-fraud-detection-tis">Fraud Detection (TIS)</a></h3>
-    <a href="https://github.com/ambitus/aionz-st-fraud-detection-tis"><img src="./imgs/giovanni-gagliardi-b1omwFGldMU-unsplash.jpg"></img></a>
+    <a href="https://github.com/ambitus/aionz-st-fraud-detection-tis"><img src="./imgs/giovanni-gagliardi-b1omwFGldMU-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
   </div>
 </div>
