@@ -50,3 +50,9 @@ Explore each of the available AI Solution Templates below.
     <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
   </div>
 </div>
+
+## Connect with us
+Connect with us by [submitting a GitHub issue](https://github.com/ambitus/aionz-solution-templates/issues/new) on topics such as:
+- general questions
+- enhancement requests
+- bug fixes
