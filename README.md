@@ -30,29 +30,39 @@ Explore each of the available AI Solution Templates below.
 
 <div class="grid-container">
   <div class="grid-item">
-    <h3><a href="https://github.com/ambitus/aionz-st-fraud-detection">Fraud detection (MLz)</a></h3>
+    <h3><a href="https://github.com/ambitus/aionz-st-fraud-detection">Fraud detection using MLz</a></h3>
     <a href="https://github.com/ambitus/aionz-st-fraud-detection"><img src="./imgs/clay-banks-c2a0TydMlAs-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Z environment, while making use of open source frameworks, Machine Learning for IBM z/OS (MLz), and more.</p>
   </div>
   <div class="grid-item">
-    <h3><a href="https://github.com/ambitus/aionz-st-credit-risk-assessment">Credit risk assessment (MLz)</a></h3>
+    <h3><a href="https://github.com/ambitus/aionz-st-fraud-detection-tis">Fraud detection using TIS</a></h3>
+    <a href="https://github.com/ambitus/aionz-st-fraud-detection-tis"><img src="./imgs/giovanni-gagliardi-b1omwFGldMU-unsplash.jpg"></a>
+    <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://github.com/ambitus/aionz-st-credit-risk-assessment">Credit risk assessment using MLz</a></h3>
     <a href="https://github.com/ambitus/aionz-st-credit-risk-assessment"><img src="./imgs/tierra-mallorca-NpTbVOkkom8-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Z environment, while making use of open source frameworks, Machine Learning for IBM z/OS (MLz), and more.</p>
   </div>
   <div class="grid-item">
-    <h3><a href="https://github.com/ambitus/aionz-st-health-insurance-claims">Health insurance claims (MLz)</a></h3>
+    <h3><a href="https://github.com/ambitus/aionz-st-credit-risk-assessment-tis">Credit risk assessment using TIS</a></h3>
+    <a href="https://github.com/ambitus/aionz-st-credit-risk-assessment-tis"><img src="./imgs/towfiqu-barbhuiya-joqWSI9u_XM-unsplash.jpg"></a>
+    <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
+  </div>
+  <div class="grid-item">
+    <h3><a href="https://github.com/ambitus/aionz-st-health-insurance-claims">Health insurance claims using MLz</a></h3>
     <a href="https://github.com/ambitus/aionz-st-health-insurance-claims"><img src="./imgs/national-cancer-institute-L8tWZT4CcVQ-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Z environment, while making use of open source frameworks, Machine Learning for IBM z/OS (MLz), and more.</p>
   </div>  
   <div class="grid-item">
-    <h3><a href="https://github.com/ambitus/aionz-st-fraud-detection-tis">Fraud detection (TIS)</a></h3>
-    <a href="https://github.com/ambitus/aionz-st-fraud-detection-tis"><img src="./imgs/giovanni-gagliardi-b1omwFGldMU-unsplash.jpg"></a>
+    <h3><a href="https://github.com/ambitus/aionz-st-health-insurance-claims-tis">Health insurance claims using TIS</a></h3>
+    <a href="https://github.com/ambitus/aionz-st-health-insurance-claims-tis"><img src="./imgs/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
-  </div>
+  </div>  
 </div>
 
 ## Connect with us
 Connect with us by [submitting a GitHub issue](https://github.com/ambitus/aionz-solution-templates/issues/new) on topics such as:
-- general questions
-- enhancement requests
-- bug fixes
+- General questions
+- Enhancement requests
+- Bug fixes
