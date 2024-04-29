@@ -59,6 +59,11 @@ Explore each of the available AI Solution Templates below.
     <a href="https://github.com/ambitus/aionz-st-health-insurance-claims-tis"><img src="./imgs/national-cancer-institute-NFvdKIhxYlU-unsplash.jpg"></a>
     <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
   </div>  
+  <div class="grid-item">
+    <h3><a href="https://github.com/ambitus/aionz-st-data-preprocessing-tis">Data Preprocessing with Linux on Z</a></h3>
+    <a href="https://github.com/ambitus/aionz-st-data-preprocessing-tis"><img src="./imgs/scott-graham-5fNmWej4tAA-unsplash.jpg"></a>
+    <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Golang, Triton Inference Server, and more.</p>
+  </div>
 </div>
 
 ## Connect with us
