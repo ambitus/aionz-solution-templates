@@ -60,9 +60,14 @@ Explore each of the available AI Solution Templates below.
     <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Triton Inference Server, and more.</p>
   </div>  
   <div class="grid-item">
+    <h3><a href="https://github.com/ambitus/aionz-st-data-preprocessing-mlz">Data Preprocessing with IBM Z</a></h3>
+    <a href="https://github.com/ambitus/aionz-st-data-preprocessing-mlz"><img src="./imgs/firmbee-com-gcsNOsPEXfs-unsplash.jpg"></a>
+    <p>This solution template provides an example on how to deploy AI with a preprocessing pipeline using an IBM Z environment, while making use of open source frameworks, Machine Learning for z/OS (MLz), and more.</p>
+  </div>
+  <div class="grid-item">
     <h3><a href="https://github.com/ambitus/aionz-st-data-preprocessing-tis">Data Preprocessing with Linux on Z</a></h3>
     <a href="https://github.com/ambitus/aionz-st-data-preprocessing-tis"><img src="./imgs/scott-graham-5fNmWej4tAA-unsplash.jpg"></a>
-    <p>This solution template provides an example on how to deploy AI using an IBM Linux on Z environment, while making use of open source frameworks, Golang, Triton Inference Server, and more.</p>
+    <p>This solution template provides an example on how to deploy AI with a preprocessing pipeline using an IBM Linux on Z environment, while making use of open source frameworks, Golang, Triton Inference Server, and more.</p>
   </div>
 </div>
 
